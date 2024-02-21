@@ -1,0 +1,2 @@
+[servers]
+ansible_host=3.69.168.121 ansible_user=ubuntu ansible_connection=ssh ansible_ssh_private_key_file=~/.ssh/test.pem
